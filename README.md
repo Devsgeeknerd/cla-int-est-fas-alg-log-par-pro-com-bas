@@ -28,4 +28,4 @@ Se o conjunto de instruções é finito, ele possui uma estrutura bem definida e
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-est-fas-alg-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
